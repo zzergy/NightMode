@@ -6,5 +6,6 @@ with aditional small animation
 
 ## Used Technologies
  - HTML5
+ - CSS3
  - JavaScript
  - [Library used for the animation](https://animejs.com/)
